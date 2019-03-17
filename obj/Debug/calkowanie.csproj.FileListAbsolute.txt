@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\calkowanie\calkowanie\bin\Debug\calkowanie.exe.config
+C:\Users\Lenovo\source\repos\calkowanie\calkowanie\bin\Debug\calkowanie.exe
+C:\Users\Lenovo\source\repos\calkowanie\calkowanie\bin\Debug\calkowanie.pdb
+C:\Users\Lenovo\source\repos\calkowanie\calkowanie\obj\Debug\calkowanie.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\calkowanie\calkowanie\obj\Debug\calkowanie.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\calkowanie\calkowanie\obj\Debug\calkowanie.exe
+C:\Users\Lenovo\source\repos\calkowanie\calkowanie\obj\Debug\calkowanie.pdb
